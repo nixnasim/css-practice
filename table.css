@@ -1,0 +1,14 @@
+table,th,td{
+
+    border: 2px solid tomato;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+table{
+    width:100%
+}
+
+th,td{
+    color:red;
+}

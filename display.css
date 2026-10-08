@@ -1,0 +1,18 @@
+h1{
+    /* text-align:center; */
+    /* display:inline; */
+    display: inline-block;
+    /* display: none; */
+}
+
+span{
+    /* text-align: center;
+    display: block; */
+    font-size: 20px;
+}
+
+ul li{
+
+    display: inline;
+
+}
