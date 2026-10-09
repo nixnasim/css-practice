@@ -1,0 +1,22 @@
+a:hover{
+    color:yellow;
+    background-color: green;
+
+
+}
+
+h2:nth-last-child(3){
+/* h2:first-child */
+
+color:red;
+}
+
+p:first-letter{
+    color:red;
+    font-size: 50px;
+}
+
+h1::before{
+
+    content:url(image/list.png)
+}
